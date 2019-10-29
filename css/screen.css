@@ -119,7 +119,7 @@
 }
 
 /*Tablet media query*/
-@media  only screen and (min-width: 1000px){
+@media  only screen and (min-width: 600px){
     h2 {
         text-align: center;
         font-size: 35px; /* 1.563em */
