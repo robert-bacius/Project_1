@@ -56,7 +56,8 @@
         padding-bottom: 10%;
 
     }
-}
+
+
 /*Desktop view media query*/
 @media only screen and (min-width: 768px) {
     h2 {
