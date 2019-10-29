@@ -171,8 +171,8 @@
     }
 
     input {
-        width: 600px; /* 21.875em */
-        padding: 20px 50px; /* 0.625em */
+        width: 600px; /* 37.5em */
+        padding: 20px 50px; /* 0.625em,3.125em */
         margin: 15px 0; /* 0.938em */
         display: inline-block;
         border: 1px solid #ccc; /* 0.063em */
