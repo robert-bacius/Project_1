@@ -132,7 +132,7 @@
 
     input {
         width: 600px; /* 37.5em */
-        padding: 20px 50px; /* 0.625em */
+        padding: 20px 50px; /* 0.625em, 3.125em */
         margin: 15px 0; /* 0.938em */
         display: inline-block;
         border: 1px solid #ccc; /* 0.063em */
@@ -163,7 +163,7 @@
 @media only screen and (min-width: 1300px){
     h2 {
         text-align: center;
-        font-size: 35px; /* 1.563em */
+        font-size: 35px; /* 2.188em */
         font-weight: 500;
         padding-bottom: 5%;
         padding-top: 2%;
